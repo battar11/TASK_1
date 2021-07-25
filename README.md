@@ -1,8 +1,8 @@
-<h1>TASK_1<h1>
+<h1>TASK_1</h1>
   
   
   
-instaling Ubuntu and robot arm movement. 
+<p>rinstaling Ubuntu and robot arm movement. 
 First I installed virtual box to run then I took Ubuntu 16.04 from the offical website https://releases.ubuntu.com/16.04/
 I suppose to use the ubuntu 18.04 and ROS melidic however, I tried many times but it didn’t work. 
 following this video I was able to get my task done: https://www.youtube.com/watch?v=fr6TXEd2rXI.
@@ -61,3 +61,4 @@ source /home/battar/catkin_ws/devel/setup.bash
 roslaunch robot_arm_pkg check_motors.launch
 
 
+</p>
